@@ -1,0 +1,25 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gatsby-config.js",
+  "dependencies": {
+    "@reach/dialog": "^0.13.0",
+    "@reach/tabs": "^0.13.0",
+    "@reach/visually-hidden": "^0.13.0",
+    "gatsby": "^2.32.0",
+    "js-tokens": "^4.0.0",
+    "loose-envify": "^1.4.0",
+    "object-assign": "^4.1.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-netlify-identity": "^0.2.5",
+    "react-netlify-identity-widget": "^0.2.7",
+    "scheduler": "^0.20.1"
+  },
+  "scripts": {
+    "dev": "gatsby develop"
+  },
+  "author": "",
+  "license": "ISC"
+}
